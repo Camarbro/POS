@@ -1,0 +1,6 @@
+db.sqlite3
+POS/migrations
+*.pyc
+migrations
+POS/*.pyc
+Susanas/*.pyc
